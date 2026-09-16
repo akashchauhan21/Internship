@@ -1,2 +1,0 @@
-# There is no any external library use in this program
-# Python Version ---> 3.14.02
